@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(atividade1 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "atividade1")
+=======
+project(app_bancaria LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "app_bancaria")
+>>>>>>> 94c7c30a57b60049d12fa433ed4dd11b5f1bd095
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

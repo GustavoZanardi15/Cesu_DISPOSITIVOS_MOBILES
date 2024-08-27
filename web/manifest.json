@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "atividade1",
     "short_name": "atividade1",
+=======
+    "name": "app_bancaria",
+    "short_name": "app_bancaria",
+>>>>>>> 94c7c30a57b60049d12fa433ed4dd11b5f1bd095
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # atividade1
+=======
+# app_bancaria
+>>>>>>> 94c7c30a57b60049d12fa433ed4dd11b5f1bd095
 
 A new Flutter project.
 
