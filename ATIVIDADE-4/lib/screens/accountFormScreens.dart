@@ -1,5 +1,3 @@
-// lib/screens/account_form_screen.dart
-
 import 'package:flutter/material.dart';
 import '../models/account.dart';
 import 'dart:math';

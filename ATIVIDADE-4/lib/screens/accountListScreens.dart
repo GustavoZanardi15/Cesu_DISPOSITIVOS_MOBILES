@@ -1,9 +1,7 @@
-// lib/screens/account_list_screen.dart
-
 import 'package:flutter/material.dart';
 import '../models/account.dart';
-import 'account_form_screen.dart';
-import 'dart:math';
+import 'package:atividade4/screens/accountFormScreens.dart';
+
 
 class AccountListScreen extends StatefulWidget {
   @override
@@ -24,10 +22,8 @@ class _AccountListScreenState extends State<AccountListScreen> {
     if (result != null) {
       setState(() {
         if (account == null) {
-          // Adicionar nova conta
           accounts.add(result);
         } else {
-          // Atualizar conta existente
           int index = accounts.indexWhere((a) => a.id == account.id);
           if (index != -1) {
             accounts[index] = result;
