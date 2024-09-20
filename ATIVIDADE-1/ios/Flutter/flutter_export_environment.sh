@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\Hospital Santa Clara\Desktop\ZANARDI\Nova pasta\flutter_windows_3.22.2-stable\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Hospital Santa Clara\exercicio01"
+export "FLUTTER_ROOT=C:\Program Files\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Zanardi\Cesu_DISPOSITIVOS_MOBILES\atividade1"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
